@@ -1,0 +1,30 @@
+{"level":30,"time":1704213279219,"pid":16,"hostname":"19915052e1eb","msg":"Connecting to LavinMQ at amqps://xvinkscr:z_P-EccdZpppc4UcSiz4x5bRzlct5cFv@possum.lmq.cloudamqp.com/xvinkscr"}
+{"level":30,"time":1704213279241,"pid":16,"hostname":"19915052e1eb","msg":"Worker initialized successfully."}
+{"level":30,"time":1704213279849,"pid":16,"hostname":"19915052e1eb","msg":"LavinMQWorkerQueueHandler initialized successfully."}
+{"level":30,"time":1704261954619,"pid":16,"hostname":"19915052e1eb","msg":"Successfully appended to the chat log"}
+{"level":30,"time":1704261954623,"pid":16,"hostname":"19915052e1eb","msg":"Job result sent successfully."}
+{"level":30,"time":1704261954623,"pid":16,"hostname":"19915052e1eb","msg":"Processed job for chatId=2122390181"}
+{"level":30,"time":1704261964092,"pid":16,"hostname":"19915052e1eb","msg":"Successfully appended to the chat log"}
+{"level":30,"time":1704261964092,"pid":16,"hostname":"19915052e1eb","msg":"Job result sent successfully."}
+{"level":30,"time":1704261964092,"pid":16,"hostname":"19915052e1eb","msg":"Processed job for chatId=2122390181"}
+{"level":30,"time":1704261986711,"pid":16,"hostname":"19915052e1eb","msg":"Successfully appended to the chat log"}
+{"level":30,"time":1704261986712,"pid":16,"hostname":"19915052e1eb","msg":"Job result sent successfully."}
+{"level":30,"time":1704261986712,"pid":16,"hostname":"19915052e1eb","msg":"Processed job for chatId=2122390181"}
+{"level":30,"time":1704262055624,"pid":16,"hostname":"19915052e1eb","msg":"Successfully appended to the chat log"}
+{"level":30,"time":1704262055625,"pid":16,"hostname":"19915052e1eb","msg":"Job result sent successfully."}
+{"level":30,"time":1704262055625,"pid":16,"hostname":"19915052e1eb","msg":"Processed job for chatId=2122390181"}
+{"level":30,"time":1704262070626,"pid":16,"hostname":"19915052e1eb","msg":"Successfully appended to the chat log"}
+{"level":30,"time":1704262070626,"pid":16,"hostname":"19915052e1eb","msg":"Job result sent successfully."}
+{"level":30,"time":1704262070627,"pid":16,"hostname":"19915052e1eb","msg":"Processed job for chatId=2122390181"}
+{"level":30,"time":1704262083177,"pid":16,"hostname":"19915052e1eb","msg":"Successfully appended to the chat log"}
+{"level":30,"time":1704262083178,"pid":16,"hostname":"19915052e1eb","msg":"Job result sent successfully."}
+{"level":30,"time":1704262083178,"pid":16,"hostname":"19915052e1eb","msg":"Processed job for chatId=2122390181"}
+{"level":30,"time":1704262119386,"pid":16,"hostname":"19915052e1eb","msg":"Successfully appended to the chat log"}
+{"level":30,"time":1704262119388,"pid":16,"hostname":"19915052e1eb","msg":"Job result sent successfully."}
+{"level":30,"time":1704262119388,"pid":16,"hostname":"19915052e1eb","msg":"Processed job for chatId=2122390181"}
+{"level":30,"time":1704262158467,"pid":16,"hostname":"19915052e1eb","msg":"Successfully appended to the chat log"}
+{"level":30,"time":1704262158468,"pid":16,"hostname":"19915052e1eb","msg":"Job result sent successfully."}
+{"level":30,"time":1704262158468,"pid":16,"hostname":"19915052e1eb","msg":"Processed job for chatId=2122390181"}
+{"level":30,"time":1704264691748,"pid":16,"hostname":"19915052e1eb","msg":"Received SIGTERM. Shutting down gracefully."}
+{"level":30,"time":1704264691748,"pid":16,"hostname":"19915052e1eb","msg":"Initiating graceful shutdown..."}
+{"level":40,"time":1704264691813,"pid":16,"hostname":"19915052e1eb","msg":"LavinMQ channel closed."}
